@@ -9,3 +9,5 @@ console.log(notes)
 
 //shift : remove 1st item of array 
 //unshift : remove 
+
+test
